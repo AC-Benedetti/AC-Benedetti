@@ -29,16 +29,16 @@ Atualmente, estou aprofundando meus estudos em **Análise de Dados** e **Power P
 
 📊 Especialidades
 🧠 Linguagens & Bibliotecas
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="30"/> </p>
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="30"/> <!-- Seaborn não tem ícone no devicon; podemos usar um emoji ou criar imagem customizada --> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" alt="Seaborn" height="25"/> </p>
 
 📊 Business Intelligence
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="30"/> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" height="25"/> </p>
 
 🗄️ Banco de Dados
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" alt="SQL Server" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="30"/> </p>
+<p align="left"> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" height="25"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" height="25"/> </p>
 
 ⚙️ Automação & Apps
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerautomate/powerautomate-original.svg" alt="Power Automate" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerapps/powerapps-original.svg" alt="Power Apps" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Scripts" width="30"/> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=microsoft-power-automate&logoColor=white" alt="Power Automate" height="25"/> <img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat&logo=power-apps&logoColor=white" alt="Power Apps" height="25"/> <img src="https://img.shields.io/badge/Python%20Scripts-3776AB?style=flat&logo=python&logoColor=white" alt="Python Scripts" height="25"/> </p>
 
 ## 🔧 Projetos em andamento
 
