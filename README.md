@@ -25,7 +25,17 @@ Atualmente, estou aprofundando meus estudos em **Análise de Dados** e **Power P
 - **Banco de Dados:** SQL Server, Oracle  
 - **Automação & Apps:** Power Automate, Power Apps, Scripts em Python
 
-- <table> <tr> <td align="center"><img src="https://seeklogo.com/images/P/python-logo-A0F3DCE6F0-seeklogo.com.png" alt="Python" width="60"/><br>Python</td> <td align="center"><img src="https://worldvectorlogo.com/logos/pandas.svg" alt="Pandas" width="60"/><br>Pandas</td> <td align="center"><img src="https://seeklogo.com/images/M/matplotlib-logo-6B0C6F8B4B-seeklogo.com.png" alt="Matplotlib" width="60"/><br>Matplotlib</td> <td align="center"><img src="https://worldvectorlogo.com/logos/seaborn-1.svg" alt="Seaborn" width="60"/><br>Seaborn</td> </tr> <tr> <td align="center"><img src="https://seeklogo.com/images/P/power-bi-microsoft-logo-400711-seeklogo.com.png" alt="Power BI" width="60"/><br>Power BI</td> <td align="center"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="60"/><br>SQL Server</td> <td align="center"><img src="https://seeklogo.com/images/O/oracle-logo-3FDEB3A3F1-seeklogo.com.png" alt="Oracle" width="60"/><br>Oracle</td> <td align="center"><img src="https://commons.wikimedia.org/wiki/File:Microsoft_Power_Automate.svg#/media/File:Microsoft_Power_Automate.svg" alt="Power Automate" width="60"/><br>Power Automate</td> </tr> <tr> <td align="center"><img src="https://commons.wikimedia.org/wiki/File:Microsoft_Power_Apps.svg#/media/File:Microsoft_Power_Apps.svg" alt="Power Apps" width="60"/><br>Power Apps</td> <td align="center"><img src="https://commons.wikimedia.org/wiki/File:Text-x-python.svg#/media/File:Text-x-python.svg" alt="Python Scripts" width="60"/><br>Python Scripts</td> </tr> </table>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" alt="SQL Server" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerapps/powerapps-original.svg" alt="Power Apps" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerautomate/powerautomate-original.svg" alt="Power Automate" width="30"/>
+</p>
 
 ---
 
