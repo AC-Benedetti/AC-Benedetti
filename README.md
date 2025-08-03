@@ -1,61 +1,46 @@
-# 👋 Olá! Eu sou o Alfredo Cezar Benedetti
-
 ## 👨‍💻 Sobre mim
-Entusiasta da tecnologia, dados e automação inteligente. Transformando informações em decisões estratégicas e automatizando processos para aumentar a eficiência e gerar valor real.
 
-Atualmente, estou aprofundando meus estudos em **Análise de Dados** e **Power Platform**, criando dashboards, protótipos e integrações que simplificam rotinas e revelam insights importantes.
+Sou apaixonado por **dados, inteligência analítica e soluções escaláveis**. Transformo informações em decisões estratégicas usando tecnologias de ponta em Business Intelligence, modelagem de dados e administração de banco de dados. 
 
-> “Com dados, criamos ideias. Com automação, transformamos tempo em inteligência.”
+Atualmente me especializo em ferramentas como Power BI, SQL Server e Python, aplicando técnicas de análise e automação para gerar insights reais e otimizar processos empresariais.
+
+> “Com dados, criamos ideias. Com BI, transformamos visão em ação.”
 
 ---
 
 ## 🎓 Formação & Interesses
 
-- Formado em Desenvolvimento de Sistemas
-- Foco crescente em Análise de Dados, Automação e desenvolvimento com Python
-- Estudando: Power Apps, Power Automate, Inteligência de Dados e Python para análise e automação
-- Explorando: tecnologia, desenvolvimento web e integração de soluções inteligentes
+- Formado em **Desenvolvimento de Sistemas**
+- Foco atual em **Análise de Dados**, **DBA** e **Business Intelligence**
+- Estudando: SQL, Python, Power BI, n8n, Power Automate
+- Explorando: modelagem de dados, fluxos automatizados, integração entre plataformas e governança de dados
 
 ---
 
-## 📊 Especialidades
+## 💡 Especialidades
 
-- **Linguagens & Bibliotecas:** Python, pandas, matplotlib, seaborn  
-- **Business Intelligence:** Power BI  
-- **Banco de Dados:** SQL Server, Oracle  
-
----
-
-📊 Especialidades
-🧠 Linguagens & Bibliotecas
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="30"/> <!-- Seaborn não tem ícone no devicon; podemos usar um emoji ou criar imagem customizada --> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" alt="Seaborn" height="25"/> </p>
-
-📊 Business Intelligence
-<p align="left"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" height="25"/> </p>
-
-🗄️ Banco de Dados
-<p align="left"> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" height="25"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" height="25"/> </p>
-
-⚙️ Automação & Apps
-<p align="left"> <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=microsoft-power-automate&logoColor=white" alt="Power Automate" height="25"/> <img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat&logo=power-apps&logoColor=white" alt="Power Apps" height="25"/> <img src="https://img.shields.io/badge/Python%20Scripts-3776AB?style=flat&logo=python&logoColor=white" alt="Python Scripts" height="25"/> </p>
-
-## 🔧 Projetos em andamento
-
-- 📈 Dashboard de Vendas com Power BI + SQL Server  
-- 🤖 Automação de relatório diário com Python  
-- 🧩 App no Power Apps para gestão de tarefas pessoais
+| Área                     | Ferramentas & Tecnologias                           |
+|--------------------------|-----------------------------------------------------|
+| 📊 BI & Visualização     | Power BI, DAX, PBIT                                 |
+| 🧠 Análise de Dados       | Python (`pandas`, `matplotlib`, `seaborn`), SQL    |
+| 🗄️ Bancos de Dados (DBA) | SQL Server, Oracle, PostgreSQL, Contoso DB         |
+| ⚙️ Automação              | Power Automate, n8n, Scripts Python para ETL       |
+| 🌐 Integrações            | APIs, Power Apps, Azure, Excel, SharePoint         |
 
 ---
 
-## 🌐 Onde me encontrar
+## 🚀 Projetos em andamento
+
+- 📈 Dashboard de Vendas com Power BI + SQL Server
+- 🧠 Rotina de ETL automatizada com Python
+- 🗂️ Gestão de dados fictícios com Contoso DB + modelagem de BI
+- 🤖 Agente automatizado com n8n para envio de relatórios
+
+---
+
+## 🌍 Onde me encontrar
 
 - 📍 Piracicaba, SP – Brasil  
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alfredo-cezar-benedetti)  
 - 📬 E-mail: alfredo.c-benedetti@outlook.com  
-- 🌍 [Portfólio](https://meusite.com)
-
----
-
-## 📈 GitHub Stats
-
-![Alfredo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AC-Benedetti&show_icons=true&theme=dracula)
+- 🧭 Portfólio: [GitHub](https://github.com/AC-Benedetti)
