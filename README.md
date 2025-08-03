@@ -1,12 +1,12 @@
 ## 👨‍💻 Sobre mim
 
-Sou apaixonado por **dados, inteligência analítica e soluções escaláveis**. Transformo informações em decisões estratégicas usando tecnologias de ponta em Business Intelligence, modelagem de dados e administração de banco de dados. 
+Tenho 43 anos e sou movido por uma paixão antiga: tecnologia, programação e automação. Embora esse interesse tenha me acompanhado desde cedo, foi apenas após os 40 anos que mergulhei verdadeiramente nesse universo, dando início a uma jornada de estudos que transformou minha vida.
 
-Atualmente me especializo em ferramentas como Power BI, SQL Server e Python, aplicando técnicas de análise e automação para gerar insights reais e otimizar processos empresariais.
+Durante a graduação em Análise e Desenvolvimento de Sistemas, tive contato com diversas linguagens, mas foi o **Python** que me conquistou. Através dele, descobri o mundo da **Análise de Dados**, dos **Bancos de Dados** e do **Business Intelligence** — áreas que hoje norteiam totalmente meu desenvolvimento técnico.
 
-> “Com dados, criamos ideias. Com BI, transformamos visão em ação.”
+Atualmente, estudo e aplico ferramentas como Power BI, SQL Server e Python, com foco em transformar dados em decisões, automatizar processos e entregar soluções que façam a diferença nas operações e estratégias das empresas.
 
----
+> "Começar tarde não me fez chegar atrasado — me fez chegar pronto."
 
 ## 🎓 Formação & Interesses
 
@@ -19,24 +19,33 @@ Atualmente me especializo em ferramentas como Power BI, SQL Server e Python, apl
 
 ## 💡 Especialidades
 
-| Área                     | Ferramentas & Tecnologias                           |
-|--------------------------|-----------------------------------------------------|
-| 📊 BI & Visualização     | Power BI, DAX, PBIT                                 |
-| 🧠 Análise de Dados       | Python (`pandas`, `matplotlib`, `seaborn`), SQL    |
-| 🗄️ Bancos de Dados (DBA) | SQL Server, Oracle, PostgreSQL, Contoso DB         |
-| ⚙️ Automação              | Power Automate, n8n, Scripts Python para ETL       |
-| 🌐 Integrações            | APIs, Power Apps, Azure, Excel, SharePoint         |
+| Área                     | Ferramentas & Tecnologias                                                                                                                   |
+|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| 📊 Business Intelligence | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=white)                                                   |
+| 🧠 Análise de Dados       | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-000000?logo=sqlite&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=white) |
+| 🗄️ Bancos de Dados (DBA) | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)               |
+| ⚙️ Automação              | ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?logo=microsoftpowerautomate&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-ff6c37?logo=n8n&logoColor=white) ![Python Scripts](https://img.shields.io/badge/Python%20ETL-3776AB?logo=python&logoColor=white)       |
 
----
 
 ## 🚀 Projetos em andamento
 
-- 📈 Dashboard de Vendas com Power BI + SQL Server
-- 🧠 Rotina de ETL automatizada com Python
-- 🗂️ Gestão de dados fictícios com Contoso DB + modelagem de BI
-- 🤖 Agente automatizado com n8n para envio de relatórios
+
+### 📈 Dashboard de Vendas - EM CONSTRUÇÃO!
 
 ---
+
+### 🧠 Rotina de ETL Automatizada - EM CONSTRUÇÃO!
+
+---
+
+### 🗂️ Modelagem de Dados com Contoso DB - EM CONSTRUÇÃO!
+
+---
+
+### 🤖 Agente Automatizado com n8n - EM CONSTRUÇÃO
+
+---
+
 
 ## 🌍 Onde me encontrar
 
