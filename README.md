@@ -23,8 +23,7 @@ Atualmente, estou aprofundando meus estudos em **Análise de Dados** e **Power P
 - **Linguagens & Bibliotecas:** Python, pandas, matplotlib, seaborn  
 - **Business Intelligence:** Power BI  
 - **Banco de Dados:** SQL Server, Oracle  
-- **Automação & Apps:** Power Automate, Power Apps, Scripts em Python
-- 
+
 ---
 
 📊 Especialidades
