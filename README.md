@@ -12,8 +12,8 @@ Atualmente, estudo e aplico ferramentas como Power BI, SQL Server e Python, com 
 
 - Formado em **Desenvolvimento de Sistemas**
 - Foco atual em **Análise de Dados**, **DBA** e **Business Intelligence**
-- Estudando: SQL, Python, Power BI, n8n, Power Automate
-- Explorando: modelagem de dados, fluxos automatizados, integração entre plataformas e governança de dados
+- Estudando: **SQL, Python, Power BI, n8n, Power Automate**
+- Explorando: **Modelagem de Dados, Fluxos Automatizados, Integração entre Plataformas e Governança de Dados**
 
 ---
 
