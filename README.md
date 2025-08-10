@@ -33,7 +33,7 @@ Atualmente, estudo e aplico ferramentas como Power BI, SQL Server e Python, com 
 ### 📊 Análise de Dados - EM CONSTRUÇÃO! 🔍📈  
 Ferramentas: Power BI, Python (Pandas, NumPy, Seaborn, Matplotlib), SQL  
 Objetivo: Identificar padrões de comportamento, visualizar tendências e gerar insights estratégicos a partir de dados brutos
-
+https://github.com/AC-Benedetti/ImersaoDadosAlura
 
 ### 📈 Dashboard de Vendas - EM CONSTRUÇÃO! 🛠️📊  
 Ferramentas: Power BI, SQL Server, DAX  
